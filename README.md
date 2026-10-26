@@ -1,6 +1,6 @@
 ## Daniel Davis
 
-**Bayesian inference and machine learning for ill-posed inverse problems on physical sensor data.**
+**Machine learning and Bayesian inference for ill-posed inverse problems on physical sensor data.**
 
 I solve ill-posed inverse problems on large, noisy physical sensor data with Bayesian inference, machine learning, and HPC. Before my PhD I spent 8+ years in industrial R&D at PETRONAS, where that work produced measurable results: ~80% less training data for a hybrid neural network and an estimated ~USD 200k/day saved through simulation-driven survey design.
 
